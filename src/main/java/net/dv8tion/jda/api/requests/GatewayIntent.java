@@ -94,14 +94,14 @@ public enum GatewayIntent
      * Emote add/update/delete events.
      */
     GUILD_EMOJIS(3),
-//    /**
-//     * Integration events. (unused)
-//     */
-//    GUILD_INTEGRATIONS(4),
-//    /**
-//     * Webhook events. (unused)
-//     */
-//    GUILD_WEBHOOKS(5),
+    /**
+     * Integration events. (unused)
+     */
+    GUILD_INTEGRATIONS(4),
+    /**
+     * Webhook events. (unused)
+     */
+    GUILD_WEBHOOKS(5),
     /**
      * Invite events.
      */
